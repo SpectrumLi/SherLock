@@ -1,0 +1,11 @@
+C:\Users\MaM\source\repos\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\MaM\source\repos\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\MaM\source\repos\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\MaM\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\MaM\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\Users\MaM\source\repos\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+E:\Sherlock\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+E:\Sherlock\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+E:\Sherlock\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+E:\Sherlock\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+E:\Sherlock\Analyzer\Analyzer\obj\Debug\Analyzer.pdb

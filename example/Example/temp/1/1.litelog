@@ -1,0 +1,15 @@
+637488688385985182|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::Main-Begin|TestApp.Program::Main_0|1330
+637488688385986513|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::.ctor|TestApp.Program::Main_1|820
+637488688385990194|65d35f9d-3b6f-469e-9724-f5c6c232045e|Call|System.Object::.ctor|TestApp.Program::.ctor_1|1255
+637488688385991450|null|Call|System.Object::.ctor|TestApp.Program::.ctor_1|1255
+637488688385991529|null|Call|TestApp.Program::.ctor|TestApp.Program::Main_1|5015
+637488688385993223|65d35f9d-3b6f-469e-9724-f5c6c232045e_TestApp.Program::x|Write|TestApp.Program::x|TestApp.Program::Main_9|15
+637488688385993271|00000000-0000-0000-0000-000000000000|Call|System.Threading.ThreadStart::.ctor|TestApp.Program::Main_21|9
+637488688385993281|null|Call|System.Threading.ThreadStart::.ctor|TestApp.Program::Main_21|9
+637488688385993308|00000000-0000-0000-0000-000000000000|Call|System.Threading.Thread::.ctor|TestApp.Program::Main_26|279
+637488688385993588|null|Call|System.Threading.Thread::.ctor|TestApp.Program::Main_26|279
+637488688385994983|f0600a59-1ea0-45d5-a6f0-0cc7925f81b0|Call|System.Threading.Thread::Start|TestApp.Program::Main_33|2829
+637488688385997813|null|Call|System.Threading.Thread::Start|TestApp.Program::Main_33|2829
+637488688385997938|f0600a59-1ea0-45d5-a6f0-0cc7925f81b0|Call|System.Threading.Thread::Join|TestApp.Program::Main_40|3928
+637488688386001867|null|Call|System.Threading.Thread::Join|TestApp.Program::Main_40|3928
+637488688386001937|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::Main-End|TestApp.Program::Main_0|1

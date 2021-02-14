@@ -1,0 +1,26 @@
+#INFO: Starting Torch run-time pre rel size 3
+637488688385985182|1|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::Main-Begin|TestApp.Program::Main_0
+637488688385986513|1|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::.ctor|TestApp.Program::Main_1
+637488688385987334|1|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::.ctor-Begin|TestApp.Program::.ctor_0
+637488688385990194|1|65d35f9d-3b6f-469e-9724-f5c6c232045e|Call|System.Object::.ctor|TestApp.Program::.ctor_1
+637488688385991450|1|null|Finish|null|TestApp.Program::.ctor_1
+637488688385991517|1|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::.ctor-End|TestApp.Program::.ctor_0
+637488688385991529|1|null|Finish|null|TestApp.Program::Main_1
+637488688385993223|1|65d35f9d-3b6f-469e-9724-f5c6c232045e_TestApp.Program::x|Write|TestApp.Program::x|TestApp.Program::Main_9
+637488688385993239|1|null|Finish|null|TestApp.Program::Main_9
+637488688385993271|1|00000000-0000-0000-0000-000000000000|Call|System.Threading.ThreadStart::.ctor|TestApp.Program::Main_21
+637488688385993281|1|null|Finish|null|TestApp.Program::Main_21
+637488688385993308|1|00000000-0000-0000-0000-000000000000|Call|System.Threading.Thread::.ctor|TestApp.Program::Main_26
+637488688385993588|1|null|Finish|null|TestApp.Program::Main_26
+637488688385994983|1|f0600a59-1ea0-45d5-a6f0-0cc7925f81b0|Call|System.Threading.Thread::Start|TestApp.Program::Main_33
+637488688385997813|1|null|Finish|null|TestApp.Program::Main_33
+637488688385997938|1|f0600a59-1ea0-45d5-a6f0-0cc7925f81b0|Call|System.Threading.Thread::Join|TestApp.Program::Main_40
+637488688385999976|3|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::update-Begin|TestApp.Program::update_0
+637488688386000881|3|65d35f9d-3b6f-469e-9724-f5c6c232045e_TestApp.Program::x|Read|TestApp.Program::x|TestApp.Program::update_3
+637488688386000897|3|null|Finish|null|TestApp.Program::update_3
+637488688386000933|3|65d35f9d-3b6f-469e-9724-f5c6c232045e_TestApp.Program::x|Write|TestApp.Program::x|TestApp.Program::update_10
+637488688386000943|3|null|Finish|null|TestApp.Program::update_10
+637488688386000970|3|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::update-End|TestApp.Program::update_0
+637488688386001867|1|null|Finish|null|TestApp.Program::Main_40
+637488688386001937|1|00000000-0000-0000-0000-000000000000|Call|TestApp.Program::Main-End|TestApp.Program::Main_0
+#INFO: Shutting down Torch run-time

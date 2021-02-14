@@ -1,0 +1,14 @@
+E:\Sherlock\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+E:\Sherlock\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+E:\Sherlock\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+E:\Sherlock\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+E:\Sherlock\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+E:\Sherlock\Analyzer\Analyzer\obj\Debug\LogAnalyzer.csproj.CoreCompileInputs.cache
+E:\Sherlock\Analyzer\Analyzer\obj\Debug\LogAnalyzer.csprojAssemblyReference.cache
+C:\Users\Pu\SherLock\log-analysis\log-preprocessing\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Pu\SherLock\log-analysis\log-preprocessing\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Pu\SherLock\log-analysis\log-preprocessing\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Pu\SherLock\log-analysis\log-preprocessing\Analyzer\obj\Debug\LogAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Pu\SherLock\log-analysis\log-preprocessing\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Pu\SherLock\log-analysis\log-preprocessing\Analyzer\obj\Debug\Analyzer.pdb
+C:\Users\Pu\SherLock\log-analysis\log-preprocessing\Analyzer\obj\Debug\LogAnalyzer.csprojAssemblyReference.cache
