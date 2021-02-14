@@ -25,5 +25,10 @@ SherLock is a dynamic analyze tool that instruments the program to collect runti
         Python log_analyzer.log  --batch [path to preprocessed result] -refine ; inferring the synchronizations.
 
 ## Example
-  
+`example\Example` contains a toy example. `TestApp` is the application we want to analyze. `inst_run.ps1` is the script example to instrument and run the app `TestApp`.   `log_analysis.ps1` is the script for both preprocessing and linear-solving. By running `inst_run.ps1` then `log_analysis.ps1`, we can see the inferred synchronizations:
 
+        Release: thread.start()
+        Acquire: update-begin() ; this is the beginning of a thread.
+
+## Multiple round
+More details will be found here about going through the basic workflow multiple times for better results. You can check our [artifact]( https://zenodo.org/record/4319950#.YCi96GhKhMA) for more examples. 
