@@ -31,4 +31,4 @@ SherLock is a dynamic analyze tool that instruments the program to collect runti
         Acquire: update-begin() ; this is the beginning of a thread.
 
 ## Multiple rounds
-More details will be found here about going through the basic workflow multiple times for better results. You can check our [artifact]( https://zenodo.org/record/4319950#.YCi96GhKhMA) for more examples. 
+More details will be found here about going through the basic workflow multiple times for better results. You can check our [artifact]( https://zenodo.org/record/4540866#.YCrNLmhKhMA) for more examples. 
